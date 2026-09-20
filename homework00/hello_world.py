@@ -2,3 +2,4 @@
 def text():
     """Calculate and return the area of a rectangle."""
     return "message"
+
